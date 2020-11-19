@@ -1,0 +1,1 @@
+#dot -Tpng tre.dot -o tre.png
